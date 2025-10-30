@@ -1,0 +1,17 @@
+# StridePilot Privacy Policy (MVP)
+
+We collect and process the following data on-device:
+- Motion sensor events to compute live steps during an active walking session.
+- User‑provided preferences such as available walking speeds and basic profile info (name, email) after Google sign‑in.
+
+We integrate with **Health Connect by Android** to:
+- Read daily step totals (if you grant permission)
+- Write walking exercise sessions and steps recorded during sessions (if you grant permission)
+
+Data handling:
+- Health data from Health Connect is used **only** for app functionality and is **not** shared with third parties.
+- No data is sold.
+- You can revoke Health Connect permissions at any time in the Health Connect app.
+- You can sign out to remove your local profile, and clear app data to remove local storage.
+
+Contact: gherrick0918@gmail.com
