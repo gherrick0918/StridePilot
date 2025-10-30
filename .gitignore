@@ -15,3 +15,5 @@
 local.properties
 *.jks\n*.keystore
 stridepilot-upload.jks
+stridepilot-upload-rotated.jks
+upload_certificate.pem
